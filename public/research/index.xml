@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Shariq Mohammed</title>
+    <link>https://shariq-mohammed.github.io/research/</link>
+      <atom:link href="https://shariq-mohammed.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shariq-mohammed.github.io/img/icon-192.png</url>
+      <title>Researches</title>
+      <link>https://shariq-mohammed.github.io/research/</link>
+    </image>
+    
+    <item>
+      <title>Imaging and complex-structured data applications</title>
+      <link>https://shariq-mohammed.github.io/research/applications/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/applications/</guid>
+      <description>&lt;p&gt;We develop statistical models to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;identify associations between complex-structured data (imaging, spatial-genomic, geospatial, digital) from multi-platform data sources,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;predict clinical characteristics of interest by integrating biomarkers generated from complex-structured data, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;understand the biological relevance and implications of our findings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Our methods are developed in the context of various diseases such as cancer and neurodegenerative (Alzheimer&amp;rsquo;s) diseases.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical methods for the analysis of complex-structured biomedical data</title>
+      <link>https://shariq-mohammed.github.io/research/methods/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shariq-mohammed.github.io/research/methods/</guid>
+      <description>&lt;p&gt;We develop innovative statistical methodology that leverages structural and biological information in the data. To address the challenges of handling complex-structured data, we develop and employ methods at the interface of hierarchical Bayesian modeling, variable selection, geometric/functional data analysis and spatial statistics.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
