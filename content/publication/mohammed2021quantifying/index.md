@@ -1,34 +1,36 @@
 ---
+title: "Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas"
+
 authors:
-- admin
-- Visweswaran Ravikumar
-- Elisa Warner
-- Sohil H. Patel
-- Spyridon Bakas
-- Arvind Rao
-- Rajan Jain
+  - admin
+  - "Visweswaran Ravikumar"
+  - "Elisa Warner"
+  - "Sohil H. Patel"
+  - "Spyridon Bakas"
+  - "Arvind Rao"
+  - "Rajan Jain"
+
 featured: false
-publication: '*American Journal of Neuroradiology*'
-publishDate: "2021-09-03T00:00:00Z"
+
+# Journal article
+publication_types: ["2"]
+publication: "*American Journal of Neuroradiology*, 43(1), 33–39 (2022)"
 publication_short: ""
-publication_types:
-- "2"
+
+# Use the publisher’s first-online date
+date: 2021-11-11
+publishDate: 2021-11-11
+
 tags:
-- Selected Journal Articles
-title: Quantifying T2-FLAIR mismatch using geographically weighted regression and predicting molecular status in lower-grade gliomas
-url_code: ""
-url_dataset: ""
-url_pdf: "http://www.ajnr.org/content/ajnr/43/1/33.full.pdf"
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+  - "Journal Articles"
+
+# Single link only (DOI landing)
+url_pdf: "https://doi.org/10.3174/ajnr.A7341"
 ---
 
 *American Journal of Neuroradiology* (2021).
 
-_**Nominated for 2021 Lucien Levy Best Research Article.**_ [AJNR Blog Annoucement](https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/)
+**Nominated for 2021 Lucien Levy Best Research Article.** ([AJNR Blog Annoucement](https://www.ajnrblog.org/2022/03/28/journal-announces-this-years-lucien-levy-best-research-article-award-winner-and-nominees/))
 
 # Abstract:
 
