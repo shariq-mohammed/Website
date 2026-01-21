@@ -28,12 +28,6 @@
   url = "teaching/"
   weight = 65
   parent = "more"
-  
-[[main]]
-  name = "Talks"
-  url = "talks/"
-  weight = 70
-  parent = "more"
 
 [[main]]
   name = "Posts"
