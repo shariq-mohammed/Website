@@ -44,8 +44,8 @@ subtitle = ""
     tag = "Journal Articles"
 
   [[content.filter_button]]
-    name = "Conference Papers"
-    tag = "Conference Papers"
+    name = "Conference Proceedings"
+    tag = "Conference Proceedings"
     
   [[content.filter_button]]
     name = "Book Chapters"

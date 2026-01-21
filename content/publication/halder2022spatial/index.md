@@ -18,11 +18,13 @@ date: 2022-10-20
 publishDate: 2022-10-20
 
 tags:
-  - "Conference Papers"
+  - "Conference Proceedings"
 
 # Single link only (keep the public, citable PDF via arXiv DOI)
 url_pdf: "https://doi.org/10.48550/arXiv.1912.12356"
 ---
+
+*International E-Conference on Mathematical and Statistical Sciences: A Selçuk Meeting (ICOMSS 2022) Proceedings*
 
 # Abstract:
 

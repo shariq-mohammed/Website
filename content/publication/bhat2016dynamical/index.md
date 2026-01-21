@@ -19,7 +19,7 @@ date: 2016-01-04
 publishDate: 2016-01-04
 
 # Category-style tag you requested
-tags: ["Conference Papers"]
+tags: ["Conference Proceedings"]
 
 # Single link only
 url_pdf: "https://doi.org/10.1109/INDIANCC.2016.7441162"
@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 ---
 
-In *2016 Indian Control Conference (ICC)*.
+*Indian Control Conference (ICC 2016) Proceedings*.
 
 # Abstract
 

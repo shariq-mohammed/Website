@@ -3,7 +3,7 @@ date: "2019-12-23T00:00:00Z"
 tags:
 - Workshops
 summary: Tata Memorial Centre Advanced Centre for Treatment, Research and Education in Cancer, India - December 2019 
-title: Computational Biotatistics and Survival Analysis
+title: Computational Biostatistics and Survival Analysis
 ---
 
 This is a workshop taught at [Tata Memorial Centre Advanced Centre for Treatment, Research and Education in Cancer](https://actrec.gov.in/), Navi Mumbai, India during December 2019.

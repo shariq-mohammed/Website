@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include Bayesian modeling, variable selection, geometric functional data analysis, spatial statistics with applications to biomedical imaging data, neuro- and cancer-imaging, digital data, neurodegenerative diseases (Alzheimer's), and precision health.
+bio: I build statistical methods for complex, multi‑modal biomedical data—linking digital, spatial‑omic, geospatial, and imaging information to clinical questions in neurodegenerative disease and cancer.
 education:
   courses:
   - course: Ph.D. in Statistics
@@ -17,26 +17,23 @@ education:
     institution: Indian Statistical Institute
     year: 2012
 email: "#contact"
+
+# Research interests shown as keywords on the page
 interests:
-
-- Bayesian Modeling
-
-- Variable Selection
-
-- Functional Data Analysis
-
-- Spatial Statistics
-    
-- Medical Imaging Analysis
-
-- Digital Data
-
-- "Cancer- and Neuro-Imaging"
+  - Bayesian Modeling
+  - Variable Selection
+  - Functional / Geometric Data Analysis
+  - Spatial Statistics
+  - Medical Imaging Analysis
+  - Digital & Spatial‑Omic Data
+  - Geospatial Methods
+  - Neurodegeneration & Cancer
     
 name: Shariq Mohammed
+
+# Current roles / affiliations
 organizations:
 - name: Assistant Professor of Biostatistics
-- name: Rafik B. Hariri Junior Faculty Fellow
 - name: Boston University
 #  url: ""
 role: 
@@ -65,8 +62,10 @@ user_groups:
 - Visitors
 ---
 
-I am an *Assistant Professor* in the Department of Biostatistics at Boston University (BU) School of Public Health. I am also a *Rafik B. Hariri Junior Faculty Fellow* at the Rafik B. Hariri Institute for Computing and Computational Science & Engineering at BU.
+I am an Assistant Professor in the Department of Biostatistics at Boston University School of Public Health and a _Rafik B. Hariri Junior Faculty Fellow_ (2022-2025) at BU’s Hariri Institute for Computing and Computational Science & Engineering. I build statistical models and computational tools that turn high‑dimensional, complex‑structured data into clinically useful insight.
 
-I was a postdoctoral research fellow in the Departments of Biostatistics, and Computational Medicine and Bioinformatics, and a Precision Health Scholar at The University of Michigan-Ann Arbor. I obtained my PhD in Statistics from University of Connecticut.
+<!-- Research focus -->
+My group develops methods at the interface of hierarchical Bayesian modeling, variable selection, functional & geometric data analysis, spatial statistics, network models. We work with digital, spatial‑omic, geospatial, and imaging data, with applications in neurodegenerative disease (with a focus on dementia and Alzheimer’s disease) and oncology. Our research aims to develop interpretable features, reliable prediction models, and biological explanations that support better decisions in patient and public health.
 
-My research interests include Bayesian modeling, variable selection, geometric functional data analysis, spatial statistics and applications to complex-structured biomedical data. My current research is focused on building statistical methods to address relevant questions in different disease contexts, by integrating complex-structured data (imaging, spatial-genomic, geospatial and digital data) from multiple platforms.
+<!-- Background -->
+Before BU, I was a postdoctoral research fellow in Biostatistics and in Computational Medicine & Bioinformatics at the University of Michigan–Ann Arbor, and a Precision Health Scholar. I received my Ph.D. in Statistics from the University of Connecticut.
