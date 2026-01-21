@@ -1,49 +1,47 @@
 ---
+title: "Predictions, Role of Interventions, and Effects of a Historic National Lockdown in India's Response to the COVID-19 Pandemic: Data Science Call to Arms"
+
 authors:
-- Debashree Ray
-- Maxwell Salvatore
-- Rupam Bhattacharyya
-- Lili Wang
-- Jiacong Du
-- admin
-- Soumik Purkayastha
-- Aritra Halder
-- Alexander Rix
-- Daniel Barker
-- Michael Kleinsasser
-- Yiwang Zhou
-- Debraj Bose
-- Peter Song
-- Mousumi Banerjee
-- Veerabhadran Baladandayuthapani
-- Parikshit Ghosh
-- Bhramar Mukherjee
+  - "Debashree Ray"
+  - "Maxwell Salvatore"
+  - "Rupam Bhattacharyya"
+  - "Lili Wang"
+  - "Jiacong Du"
+  - admin
+  - "Soumik Purkayastha"
+  - "Aritra Halder"
+  - "Alexander Rix"
+  - "Daniel Barker"
+  - "Michael Kleinsasser"
+  - "Yiwang Zhou"
+  - "Debraj Bose"
+  - "Peter Song"
+  - "Mousumi Banerjee"
+  - "Veerabhadran Baladandayuthapani"
+  - "Parikshit Ghosh"
+  - "Bhramar Mukherjee"
+
 featured: false
-publication: 'Harvard Data Science Review'
-publishDate: "2020-05-15T00:00:00Z"
+
+# Journal article
+publication_types: ["2"]
+publication: "*Harvard Data Science Review*, Special Issue 1: COVID‑19—Unprecedented Challenges and Chances (2020)"
 publication_short: ""
-publication_types:
-- "2"
+
+# Use the journal's first-online date
+date: 2020-06-09
+publishDate: 2020-06-09
+
 tags:
-- Journal Articles
-title: "Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms"
-url_code: ""
-url_dataset: ""
-url_pdf: https://hdsr.mitpress.mit.edu/pub/r1qq01kw/release/2
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+  - "Journal Articles"
+
+# Single link only (DOI landing)
+url_pdf: "https://doi.org/10.1162/99608f92.60e08ed5"
+
 ---
 
-*Harvard Data Science Review* (2020).  
-
+*Harvard Data Science Review* (2020).
 
 # Abstract:
 
-With only 536 cases and 11 fatalities, India took the historic decision of a 21-day national lockdown on March 25. The lockdown was first extended to May 3 soon after the analysis of this paper was completed, and then to May 18 while this paper was being revised. In this paper, we use a Bayesian extension of the Susceptible-Infected-Removed (eSIR) model designed for intervention forecasting to study the short- and long-term impact of an initial 21-day lockdown on the total number of COVID-19 infections in India compared to other less severe non-pharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its healthcare and disease-monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown between 42-56 days is preferable to substantially “flatten the curve” when compared to 21-28 days of lockdown. Our models focus solely on projecting the number of COVID-19 infections and thus, inform policymakers about one aspect of this multi-faceted decision-making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods and tools that can enable data-driven policymaking during a pandemic. Our software products are available at [covind19.org](covind19.org).
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+With only 536 COVID‑19 cases and 11 fatalities, India took the historic decision of a 21‑day national lockdown on March 25, 2020. The lockdown was first extended to May 3 soon after the analysis of this article was completed, and then to May 18 while this article was being revised. In this article, we use a Bayesian extension of the susceptible‑infected‑removed (eSIR) model designed for intervention forecasting to study the short‑ and long‑term impact of an initial 21‑day lockdown on the total number of COVID‑19 infections in India compared to other, less severe nonpharmaceutical interventions. We compare effects of hypothetical durations of lockdown on reducing the number of active and new infections. We find that the lockdown, if implemented correctly, can reduce the total number of cases in the short term, and buy India invaluable time to prepare its health care and disease‑monitoring system. Our analysis shows we need to have some measures of suppression in place after the lockdown for increased benefit (as measured by reduction in the number of cases). A longer lockdown from 42–56 days is preferable to substantially “flatten the curve” when compared to 21–28 days of lockdown. Our models focus solely on projecting the number of COVID‑19 infections and thus inform policymakers about one aspect of this multifaceted decision‑making problem. We conclude with a discussion on the pivotal role of increased testing, reliable and transparent data, proper uncertainty quantification, accurate interpretation of forecasting models, reproducible data science methods, and tools that can enable data‑driven policymaking during a pandemic. Our software products are available at covind19.org.

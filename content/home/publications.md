@@ -40,20 +40,16 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Selected Journal Articles"
-    tag = "Selected Journal Articles"
-    
-  [[content.filter_button]]
-    name = "Preprints"
-    tag = "Preprints"
-    
-  [[content.filter_button]]
-    name = "Book Chapters"
-    tag = "Book Chapters"
+    name = "Journal Articles"
+    tag = "Journal Articles"
 
   [[content.filter_button]]
     name = "Conference Papers"
     tag = "Conference Papers"
+    
+  [[content.filter_button]]
+    name = "Book Chapters"
+    tag = "Book Chapters"
     
   [[content.filter_button]]
     name = "All"
