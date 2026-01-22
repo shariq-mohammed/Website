@@ -22,7 +22,6 @@
   name = "Teaching"
   url = "#teaching"
   weight = 60
-#  parent = "more"
   
 [[main]]
   name = "Contact"
