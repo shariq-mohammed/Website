@@ -17,28 +17,17 @@
   name = "Publications"
   url = "#publications"
   weight = 50
-
-[[main]]
-  identifier = "more"
-  name = "More"
-  weight = 75
   
 [[main]]
   name = "Teaching"
-  url = "teaching/"
-  weight = 65
-  parent = "more"
-
-[[main]]
-  name = "Posts"
-  url = "posts/"
-  weight = 80
+  url = "#teaching"
+  weight = 60
   parent = "more"
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
