@@ -36,12 +36,6 @@
   parent = "more"
   
 [[main]]
-  name = "Awards"
-  url = "awards/"
-  weight = 85
-  parent = "more"
-  
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 90
