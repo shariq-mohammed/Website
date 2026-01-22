@@ -7,7 +7,7 @@ authors:
 - Rupam Bhattacharyya
 - admin
 - Upali Nanda
-featured: false
+
 publication: 'bloombergquint.com'
 date: "2020-04-06T00:00:00Z"
 publishDate: "2020-04-06T00:00:00Z"
