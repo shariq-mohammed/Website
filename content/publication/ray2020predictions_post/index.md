@@ -1,4 +1,6 @@
 ---
+title: Predictions and role of interventions for COVID-19 outbreak in India
+
 authors:
 - Debashree Ray
 - Rupam Bhattacharyya
@@ -14,16 +16,18 @@ authors:
 - Veerabhadran Baladandayuthapani
 - Parikshit Ghosh
 - Bhramar Mukherjee
+
 featured: false
-post: 'medium.com'
+publication: 'medium.com'
+date: "2020-03-21T00:00:00Z"
 publishDate: "2020-03-21T00:00:00Z"
-post_types:
+publication_types:
 - "4"
 featured: false
 tags:
 - Posts
 - COVID-19
-title: Predictions and role of interventions for COVID-19 outbreak in India
+
 url_source: https://medium.com/@covind_19/predictions-and-role-of-interventions-for-covid-19-outbreak-in-india-52903e2544e6
 ---
 

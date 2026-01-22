@@ -50,6 +50,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Book Chapters"
     tag = "Book Chapters"
+
+  [[content.filter_button]]
+    name = "Posts"
+    tag = "Posts"
     
   [[content.filter_button]]
     name = "All"

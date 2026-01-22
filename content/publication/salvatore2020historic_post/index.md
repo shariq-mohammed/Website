@@ -1,4 +1,6 @@
 ---
+title: Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India
+
 authors:
 - Maxwell Salvatore
 - Lili Wang
@@ -13,16 +15,17 @@ authors:
 - Veerabhadran Baladandayuthapani
 - Debashree Ray
 - Bhramar Mukherjee
+
 featured: false
-post: 'medium.com'
+publication: 'medium.com'
+date: "2020-04-03T00:00:00Z"
 publishDate: "2020-04-03T00:00:00Z"
-post_types:
+publication_types:
 - "4"
 featured: false
 tags:
 - Posts
 - COVID-19
-title: Historic 21-day lockdown, predictions for lockdown effects and the role of data in this crisis of virus in India
 url_source: https://medium.com/@covind_19/historic-lockdown-prediction-models-to-study-lockdown-effects-and-the-role-of-data-in-the-crisis-a0afeeec5a6
 ---
 

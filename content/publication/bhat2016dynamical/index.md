@@ -1,4 +1,3 @@
-
 ---
 title: "A dynamical systems approach to systemic risk in a financial network"
 

@@ -1,21 +1,24 @@
 ---
+title: Regional contact networks and the pandemic spread of COVID-19 in India
+
 authors:
 - Rupam Bhattacharyya
 - admin
 - Veerabhadran Baladandayuthapani
-- Syanatan Banerjee
+- Sayantan Banerjee
 - Upali Nanda
-featured: false
-post: 'medium.com'
+
+publication: "medium.com"
+date: "2020-04-16T00:00:00Z"
 publishDate: "2020-04-16T00:00:00Z"
-post_types:
+publication_types:
 - "4"
 featured: false
 tags:
 - Posts
 - COVID-19
-title: "Regional contact networks and the pandemic spread of COVID-19 in India"
-url_source: https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161
+
+url_source: "https://medium.com/@veerab_12080/regional-contact-networks-and-the-pandemic-spread-of-covid-19-in-india-28b3b3aa2161"
 ---
 
 Predictions to enable State-level Surge Preparedness in moving from Containment to Mitigation.
