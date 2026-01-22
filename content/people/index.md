@@ -17,36 +17,37 @@ Here is our current team and alumni. If you are interested in working with us, f
 
 #### Doctoral Advisees
 
-- **Jordan Ahn**, PhD Biostatistics — *2025–present*
+- Jordan Ahn — *Doctoral student, Biostatistics*
 
-- **Abhi Jain**, PhD Biostatistics — Dissertation (co‑advisor: Sara Lodi); Research Assistantship (joint with Kimberly Dukes) — *2022–present*  
-  - *ENAR Distinguished Student Paper Award* (2026)
+- Abhi Jain — *Doctoral student, Biostatistics* (co‑advisor: Sara Lodi; Research assistantship jointly with Kimberly Dukes)  
+  *ENAR Distinguished Student Paper Award (2026)
 
-- **Adlin Pinheiro**, PhD Biostatistics — *2022–present*  
-  - *BU SPH Pre‑doctoral Research Ignition Award* (2022–2023)  
-  - *ENAR Regional Advisory Board (RAB) Poster Award* (2025)  
-  - *BU SPH Academic Travel Award* (2025)  
-  - *Alzheimer’s Association International Conference Fellowship* (2025)
+- Adlin Pinheiro — *Doctoral student, Biostatistics*  
+  *BU SPH Pre‑doctoral Research Ignition Award (2022–2023)  
+  *ENAR Regional Advisory Board (RAB) Poster Award (2025)  
+  *BU SPH Academic Travel Award (2025)  
+  *Alzheimer’s Association International Conference Fellowship (2025)
 
 ---
 
 #### Research Assistants
 
-- **Daniel Cho** — *2025–present*
+- Daniel Cho — *Research Assistant*
 
 ---
 
 ## Alumni
 
 #### Doctoral Advisees
-- **Garrett Frady**, PhD Statistics, University of Connecticut (co‑advisor: Dipak K. Dey) — *Graduated 2024*
+
+- Garrett Frady — *PhD in Statistics, University of Connecticut* (co‑advisor: Dipak K. Dey)
 
 #### Master’s Advisees
 
-- **Jude Sleiman**, MPH — *2024–2025*
-- **Xiaohang Zhang**, MS Biostatistics — *2024–2025*
-- **John Cannon**, MS Biostatistics — *2022–2025*
-- **Yinzhu Piao**, MA Statistics — *2022–2024*
-- **Aaron Morris**, MS Applied Biostatistics — *Spring 2023*
-- **Kim‑Judy You**, MS Applied Biostatistics — *Spring 2022*
-- **Tianxiang Sheng**, MS Applied Biostatistics — *Spring 2022*
+- Jude Sleiman — *MPH* 
+- Xiaohang Zhang — *MS in Biostatistics*  
+- John Cannon — *MS in Biostatistics* 
+- Yinzhu Piao — *MA in Statistics*  
+- Aaron Morris — *MS in Applied Biostatistics*  
+- Kim‑Judy You — *MS in Applied Biostatistics*  
+- Tianxiang Sheng — *MS in Applied Biostatistics*
